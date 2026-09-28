@@ -1,3 +1,5 @@
+#Oscar Novelo Lezama
+#Ingeniería en tecnologías de la información y negocios digitales
 print ("¿Cuál es tu nombre?")
 nombre = input()
 print (nombre)
