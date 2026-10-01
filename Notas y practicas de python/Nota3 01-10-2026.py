@@ -1,3 +1,5 @@
+#Oscar Novelo Lezama
+#Ingeniería en tecnologías de la información y negocios digitales
 print ("Ingrese el valor de un dia de la semana")
 dia = int(input())
 

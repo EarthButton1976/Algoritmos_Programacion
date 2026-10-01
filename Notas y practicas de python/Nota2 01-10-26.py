@@ -1,5 +1,5 @@
 #Oscar Novelo Lezama
-#Ingeniería en tecnologías de la informaci+on y negocios digitales
+#Ingeniería en tecnologías de la información y negocios digitales
 print ("Anáhuac Mayab")
 print ('Anáhuac Mayab')
 
