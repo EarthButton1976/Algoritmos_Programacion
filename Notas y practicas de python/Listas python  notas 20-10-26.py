@@ -1,3 +1,5 @@
+#Oscar Novelo Lezama
+#Ingeniería en tecnologias de la información y negocios digitales
 lista1 = []
 print (lista1)
 
