@@ -48,8 +48,8 @@ int main(){
     cout << "OPERACIONES ARTMETICAS" << endl;
     cout << "1. Suma" << endl;
     cout << "2. Resta" << endl;
-    cout << "3. Multiplicación" << endl;
-    cout << "4. División" << endl;
+    cout << "3. multiplicacion" << endl;
+    cout << "4. division" << endl;
     cout << "¿Qué operación deseas realizar?: "; cin >> op; 
    
     switch(op){
